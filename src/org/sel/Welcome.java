@@ -28,6 +28,8 @@ public class Welcome {
 		   
 		   System.out.println(src);
 		   
+		   System.out.println(src);
+		   
 		   
 		   File desc = new File 
 		("C:\\Users\\ELCOT\\Documents\\Workspace\\SeleniumOnline\\screenshot\\" +name+".png");
